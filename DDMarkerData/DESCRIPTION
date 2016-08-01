@@ -1,0 +1,11 @@
+Package: DDMarkerData
+Type: Package
+Title: A Homo Sapiens Annotation Database for Diagnose and Detect Markers in Extracellular Circulating
+Version: 1.0
+Date: 2015-05-27
+Author: Yu Shang, Qiong Yu, Huansheng Cao, Guoqing Liu, Xiufeng Liu, Hao Wu, Yan Wang, Ying Xu
+Maintainer: Yu Shang <yushang@uga.edu>
+Correspond: Qiong Yu <yuqiong@uga.edu>, Ying Xu <xyn@bmb.uga.edu>
+Description: A database is called HSAD, IFF, it entails the symbols among the genes, the proteins, the micro RNAs, the isoforms and their sequences by a deductive system.
+License: GPL (>= 2)
+LazyData: TRUE
